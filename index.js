@@ -34,6 +34,6 @@ function countEvens(numbers){
         count+=1
     }
  }
- return count
+ return count;
 }
 console.log(countEvens([2,4,5,6,19,22,24,27]))
